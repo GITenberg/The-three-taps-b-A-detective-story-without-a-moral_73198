@@ -1,0 +1,38 @@
+_repo: The-three-taps-b-A-detective-story-without-a-moral_73198
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knox, Ronald Arbuthnott
+    aliases:
+    - Knox, R. A. Hilary (Ronald Arbuthnott Hilary)
+    - Knox, R. A. (Ronald Arbuthnott)
+    - Knox, Ronald A. (Ronald Arbuthnott)
+    birthdate: 1888
+    deathdate: 1957
+    gutenberg_agent_id: '50428'
+    url: http://www.gutenberg.org/2009/agents/50428
+    wikipedia: https://en.wikipedia.org/wiki/Ronald_Knox
+description: ''
+gutenberg_issued: '2024-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73198'
+language: en
+pgterms:marc904: https://books.google.com/books?id=mg852epg40kC
+pgterms:marc905: 20240311142946knox
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bJacobsen Publishing Company, Inc., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Insurance investigators -- Fiction'
+- !lcsh 'Bredon, Miles (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The three taps : $b A detective story without a moral'
+url: http://www.gutenberg.org/ebooks/73198
